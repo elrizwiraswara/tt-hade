@@ -2,6 +2,7 @@
   "name": "tt-hade",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "Experimental tool: patch MP4 containers for higher served quality on TikTok, post them through the Content Posting API, and measure what TikTok serves.",
   "type": "module",
   "engines": {

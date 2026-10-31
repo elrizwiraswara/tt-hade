@@ -109,3 +109,7 @@ src/
   web/        React UI (Vite)
 test/         Vitest suites: patching against ffmpeg fixtures, upload chunking, UI render
 ```
+
+## License
+
+[MIT](LICENSE)
